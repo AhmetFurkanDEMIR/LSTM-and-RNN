@@ -9,3 +9,4 @@ işleyeceğimiz konular sırayla:
 # Yinelenen sinir ağı (RNN)
 
 * Yinelenen sinir ağları döngüsel olarak çalışır. Bu sayede önceden gördüğü şeyleri aklında tutarak ona göre sonuç verir.
+* Konuşma tanıma, doğal dil işleme, çeviri yapma, ritim öğrenme, müzik üretme gibi bir çok farklı alanda kullanılır.
