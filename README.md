@@ -62,3 +62,6 @@ H = Output
 
 # Cell state 'yi kontrol etmek için LSTM içersinde 3 tane Gate vardır
 
+* 1-) Forget Gate:
+* Bu Gate 'te hangi bilgiler unutulacak buna karar verilecek.
+
