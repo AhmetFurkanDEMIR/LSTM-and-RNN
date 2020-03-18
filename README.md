@@ -99,3 +99,4 @@ H = Output
 * Cell state ve Hidden State 'yi birleştiriyoruz ve daha basit bir yapı oluşturuyoruz.
 * Sizle paylaştığım projede GRU kapı mekanizmasını kullanıyoruz
 
+![Screenshot_2020-03-18_20-06-21](https://user-images.githubusercontent.com/54184905/76996190-219efb00-6962-11ea-8b24-e5abfabf0a0f.png)
