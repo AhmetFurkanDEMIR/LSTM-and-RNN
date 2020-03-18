@@ -45,3 +45,13 @@ H = Output
 * RNN deki back propagation sorununu çözer.
 * Bir sinir ağı yerine dört tane birbiri ie ilişkilenmiş sinir ağı vardır (3 'ü sigmoid fonk. kullanır, biri tanh fonk. kullanır)
 
+![Screenshot_2020-03-18_18-23-36](https://user-images.githubusercontent.com/54184905/76993369-ca972700-695d-11ea-9efb-e03ef36fa7f1.png)
+
+* Sarı renkli kutucuklar: eğitilecek sinir ağları.
+* Daire içinde x: yapılacak işler.
+* Okların birleşmesi: taşınan vektörlerin birbirine bağlanması.
+* Okların ayrılması: kopyalama işlemi.
+
+* LSTM geri yayılımda düz bir şekilde cell state bulunur, geri yayılım işlemini matris çarpma işlemi kalmadan basitçe yapabiliriz.
+
+
