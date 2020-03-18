@@ -60,8 +60,19 @@ H = Output
 
 * Hücre içindeki sigmoid fonksiyonlar her bileşenin ne kadarının geçeceğine karar verir, 1 'e yakınsa çok 0 'a yakınsa az akış gerçekleşir.
 
+
 # Cell state 'yi kontrol etmek için LSTM içersinde 3 tane Gate vardır
 
 * 1-) Forget Gate:
 * Bu Gate 'te hangi bilgiler unutulacak buna karar verilecek.
+
+![Screenshot_2020-03-18_20-00-21](https://user-images.githubusercontent.com/54184905/76994467-79883280-695f-11ea-985e-6e10145e1f33.png)
+
+* Ft fonksiyonundan çıkan değer 0 ise tamamen unutur, 1 ise tamamen hatırlar, 0.9 ise çoğunu hatırlar.
+
+
+* 2-) Input gate
+* Hangi bilgiler saklanacak hangileri saklanmayacak buna karar verir.
+* Sigmoid kullanan Input gate hangi değerlerin güncelleneceğine karar verir.
+* tanh ise yeni değerlerden bir vektör oluşturup cell state ye ekleme yapar
 
