@@ -91,3 +91,11 @@ H = Output
 * People:
 * Tüm geçitlerin Cell State 'e erişmesini sağlar
 
+![Screenshot_2020-03-18_20-05-39](https://user-images.githubusercontent.com/54184905/76995865-9160b600-6961-11ea-932c-df01810e6018.png)
+
+# Gated Recurrent Unit (GRU)
+
+* Forget ve Input geçişleri birleşik, bu birleşmeye Update Gate denir.
+* Cell state ve Hidden State 'yi birleştiriyoruz ve daha basit bir yapı oluşturuyoruz.
+* Sizle paylaştığım projede GRU kapı mekanizmasını kullanıyoruz
+
