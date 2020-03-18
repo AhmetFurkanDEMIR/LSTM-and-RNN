@@ -38,3 +38,10 @@ H = Output
 ![Screenshot_2020-03-18_17-52-56](https://user-images.githubusercontent.com/54184905/76989637-bc460c80-6957-11ea-9540-aab4fd4139a9.png)
 
 (C++ kodunu örnek alarak yeni bir kod yazmak)
+
+
+# Uzun kısa süreli bellek (LSTM)
+
+* RNN deki back propagation sorununu çözer.
+* Bir sinir ağı yerine dört tane birbiri ie ilişkilenmiş sinir ağı vardır (3 'ü sigmoid fonk. kullanır, biri tanh fonk. kullanır)
+
