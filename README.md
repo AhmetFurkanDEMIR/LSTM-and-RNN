@@ -54,4 +54,11 @@ H = Output
 
 * LSTM geri yayılımda düz bir şekilde cell state bulunur, geri yayılım işlemini matris çarpma işlemi kalmadan basitçe yapabiliriz.
 
+![Screenshot_2020-03-18_18-27-04](https://user-images.githubusercontent.com/54184905/76993907-aa1b9c80-695e-11ea-98f9-1790530366bb.png)
+
+(Ct = Cell state)
+
+* Hücre içindeki sigmoid fonksiyonlar her bileşenin ne kadarının geçeceğine karar verir, 1 'e yakınsa çok 0 'a yakınsa az akış gerçekleşir.
+
+# Cell state 'yi kontrol etmek için LSTM içersinde 3 tane Gate vardır
 
