@@ -18,3 +18,7 @@ X = input
 A = Sinir ağı
 
 H = Output
+
+![Screenshot_2020-03-18_17-49-41](https://user-images.githubusercontent.com/54184905/76989202-0a0e4500-6957-11ea-8b6f-2e3d9dfd8791.png)
+
+(ht yani yeni state in oluşumu)
