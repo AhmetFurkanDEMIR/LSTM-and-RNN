@@ -76,3 +76,11 @@ H = Output
 * Sigmoid kullanan Input gate hangi değerlerin güncelleneceğine karar verir.
 * tanh ise yeni değerlerden bir vektör oluşturup cell state ye ekleme yapar
 
+![Screenshot_2020-03-18_20-01-24](https://user-images.githubusercontent.com/54184905/76995140-79d4fd80-6960-11ea-8804-76378f2e8725.png)
+
+
+* 3-) Output Gate
+* ilk olarak verileri sigmoid fonk. dan geçiririz burada neleri output olarak alacağız onu seçeriz.
+* Sonra ise Cell State 'yi tanh tan geçirip Output Gate ile çarparız
+* Bu şekilde sadece istenilen kısımların output olarak verilmesini sağlarız.
+
