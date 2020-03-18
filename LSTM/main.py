@@ -16,7 +16,9 @@ learning_rate = 0.001
 training_seq_len = 50
 embedding_size = rnn_size
 prime_texts = ['ankara', 'kitap']
-epochs = 10
+epochs = 10000
+
+file = open("yeni.txt","w+")
 
 data_dir = 'data'
 data_file = 'eksidata.txt'
@@ -107,5 +109,6 @@ for epoch in range (epochs):
         if iterations % 50 == 0:
             for sample in prime_texts:
                 print(test_lstm_model.sample(sess, ix2vocab, vocab2ix, num=10, prime_text=sample))
+                print(test_lstm_model.sample(sess, ix2vocab, vocab2ix, num=10, prime_text=sample),file=file,flush=True)
 
         iterations += 1
