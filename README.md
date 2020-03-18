@@ -29,6 +29,8 @@ H = Output
 
 ![Screenshot_2020-03-18_17-50-52](https://user-images.githubusercontent.com/54184905/76989633-bb14df80-6957-11ea-94f0-862776c3f318.png)
 
+(Hello kelimesinden yola çıkarak yeni kelime üretme)
+
 ![Screenshot_2020-03-18_17-51-41](https://user-images.githubusercontent.com/54184905/76989635-bbad7600-6957-11ea-91ec-d52df9f38e83.png)
 
 ![Screenshot_2020-03-18_17-52-56](https://user-images.githubusercontent.com/54184905/76989637-bc460c80-6957-11ea-9540-aab4fd4139a9.png)
