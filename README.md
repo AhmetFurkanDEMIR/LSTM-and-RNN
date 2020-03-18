@@ -10,3 +10,10 @@ işleyeceğimiz konular sırayla:
 
 * Yinelenen sinir ağları döngüsel olarak çalışır. Bu sayede önceden gördüğü şeyleri aklında tutarak ona göre sonuç verir.
 * Konuşma tanıma, doğal dil işleme, çeviri yapma, ritim öğrenme, müzik üretme gibi bir çok farklı alanda kullanılır.
+
+
+X = input
+
+A = Sinir ağı
+
+H = Output
