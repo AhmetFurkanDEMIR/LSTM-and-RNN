@@ -80,7 +80,14 @@ H = Output
 
 
 * 3-) Output Gate
+
+![Screenshot_2020-03-18_20-03-27](https://user-images.githubusercontent.com/54184905/76995680-45157600-6961-11ea-834b-c6bd7dbe34fa.png)
+
 * ilk olarak verileri sigmoid fonk. dan geçiririz burada neleri output olarak alacağız onu seçeriz.
 * Sonra ise Cell State 'yi tanh tan geçirip Output Gate ile çarparız
 * Bu şekilde sadece istenilen kısımların output olarak verilmesini sağlarız.
+
+
+* People:
+* Tüm geçitlerin Cell State 'e erişmesini sağlar
 
